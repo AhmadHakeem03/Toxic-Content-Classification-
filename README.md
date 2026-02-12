@@ -39,17 +39,3 @@ The project experiments with different NLP architectures:
 - Class weighting for imbalanced data  
 
 ---
-
-## 📂 Project Structure
-
-Toxic_Content_Classification/
-│
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks for experiments
-├── models/ # Saved trained models
-├── utils/ # Helper functions
-├── app/ # Deployment (Streamlit / API)
-├── train.py # Training script
-├── evaluate.py # Evaluation script
-├── requirements.txt
-└── README.md
